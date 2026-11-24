@@ -13,7 +13,7 @@
   - [**Stirling-PDF**](https://github.com/Stirling-Tools/Stirling-PDF) *(Contributed — PR [#8947](https://github.com/Stirling-Tools/Stirling-PDF/pull/8947))*: Refactored Apache PDFBox security inspection routines to resolve unhandled HTTP 400 crashes on password-protected uploads.
 - 👯 **Looking to Collaborate on:** Open-source backend infrastructure, distributed stream processing, and agentic retrieval/search systems
 - 💬 **Ask Me About:** Java, Spring Boot, Kafka, Redis, PostgreSQL (pgvector), Hybrid RAG, AI Automations & Agent Pipelines (n8n)
-- ⚡ **Milestones:** **500+ Active Days on LeetCode** | 1,000+ problems solved | GATE CS 2025 (AIR 7912)
+- ⚡ **Milestones:** [**500+ Active Days on LeetCode**](https://leetcode.com/u/21241A0595/) | 1,000+ problems solved | GATE CS 2025 (AIR 7912)
 
 ---
 
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=plastic&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/vivek_kanugula/">
+  <a href="https://leetcode.com/u/21241A0595/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
