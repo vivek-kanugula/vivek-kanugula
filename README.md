@@ -4,32 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=vivek-kanugula&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" />
 </p>
 
-<br>
-
 - 🔭 **Currently Building:** 
   - [**Notify**](https://github.com/vivek-kanugula/Notify) — Multi-Tenant Notification Infrastructure *(Java 25, Kafka & Postgres Outbox with `FOR UPDATE SKIP LOCKED`)*
   - [**QueryFusion**](https://github.com/vivek-kanugula/QueryFusion) — Agentic & Corrective RAG with Hybrid RRF Retrieval *(pgvector + BM25)*
   - [**morning-tech-pulse**](https://github.com/vivek-kanugula/morning-tech-pulse) — Autonomous AI agent workflows via n8n, Groq & GitHub Actions
-
-<br>
-
 - 🌐 **Open-Source Engineering:**
   - [**traccar/traccar**](https://github.com/traccar/traccar) *(Merged — PR [#6125](https://github.com/traccar/traccar/pull/6125) & [#6126](https://github.com/traccar/traccar/pull/6126))*: Implemented database-backed limit-offset pagination across telemetry REST APIs, bounding 17,000-record queries to prevent downstream buffer overflow.
   - [**Stirling-PDF**](https://github.com/Stirling-Tools/Stirling-PDF) *(Contributed — PR [#8947](https://github.com/Stirling-Tools/Stirling-PDF/pull/8947))*: Refactored Apache PDFBox security inspection routines to resolve unhandled HTTP 400 crashes on password-protected uploads.
-
-<br>
-
 - 👯 **Looking to Collaborate on:** Open-source backend infrastructure, distributed stream processing, and agentic retrieval/search systems
-
-<br>
-
 - 💬 **Ask Me About:** Java, Spring Boot, Kafka, Redis, PostgreSQL (pgvector), Hybrid RAG, AI Automations & Agent Pipelines (n8n)
-
-<br>
-
 - ⚡ **Milestones:** **500+ Active Days on LeetCode** | 1,000+ problems solved | GATE CS 2025 (AIR 7912)
-
-<br>
 
 ---
 
@@ -53,8 +37,6 @@
   </a>
 </p>
 
-<br>
-
 ---
 
 ## 💻 Tech Stack
@@ -63,24 +45,18 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=plastic&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<br>
-
 ### Backend Architecture & APIs
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=spring&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic" alt="Spring Security" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=plastic" alt="Hibernate" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=plastic" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Microservices-blueviolet?style=plastic" alt="Microservices" />
 </p>
-
-<br>
 
 ### Distributed Systems & Storage
 <p align="left">
@@ -88,23 +64,18 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Resilience4j-Fault_Tolerance-blue?style=plastic" alt="Resilience4j" />
+  <img src="https://img.shields.io/badge/Resilience4j-blue?style=plastic" alt="Resilience4j" />
 </p>
-
-<br>
 
 ### Applied AI, Search & Automations
 <p align="left">
-  <img src="https://img.shields.io/badge/n8n-AI_Automations-EA4B71?style=plastic&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/pgvector-Vector_Search-336791?style=plastic&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=plastic&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=plastic" alt="pgvector" />
   <img src="https://img.shields.io/badge/Hybrid_RAG-FF6F00?style=plastic" alt="Hybrid RAG" />
   <img src="https://img.shields.io/badge/Cross_Encoder-8A2BE2?style=plastic" alt="Cross Encoder" />
-  <img src="https://img.shields.io/badge/Groq-Fast_Inference-F55036?style=plastic" alt="Groq" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/AI_Agents-Workflows-blueviolet?style=plastic" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=plastic" alt="Groq" />
+  <img src="https://img.shields.io/badge/AI_Agents-blueviolet?style=plastic" alt="AI Agents" />
 </p>
-
-<br>
 
 ### Cloud, DevOps & Observability
 <p align="left">
@@ -116,13 +87,11 @@
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=plastic&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=plastic&logo=k6&logoColor=white" alt="k6" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=plastic" alt="k6" />
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=plastic&logo=junit5&logoColor=white" alt="JUnit 5" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
-
-<br>
 
 ---
 
