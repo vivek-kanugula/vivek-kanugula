@@ -98,9 +98,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=vivek-kanugula&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=vivek-kanugula&theme=dark&hide_border=false&show_icons=true&hide_rank=true&include_all_commits=true&count_private=false" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivek-kanugula&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivek-kanugula&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=powershell,css,javascript" width="48%" />
 </p>
 
 <p align="center">
