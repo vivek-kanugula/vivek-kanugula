@@ -1,59 +1,126 @@
 # 💫 About Me
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vivek-kanugula&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" />
+</p>
+
 - 🔭 **Currently Building:** 
   - [**Notify**](https://github.com/vivek-kanugula/Notify) — Multi-Tenant Notification Infrastructure *(Java 25, Kafka & Postgres Outbox with `FOR UPDATE SKIP LOCKED`)*
   - [**QueryFusion**](https://github.com/vivek-kanugula/QueryFusion) — Agentic & Corrective RAG with Hybrid RRF Retrieval *(pgvector + BM25)*
   - [**morning-tech-pulse**](https://github.com/vivek-kanugula/morning-tech-pulse) — Autonomous AI agent workflows via n8n, Groq & GitHub Actions
+
+<br>
+
 - 🌐 **Open-Source Engineering:**
-  - [**traccar/traccar**](https://github.com/traccar/traccar) *(Merged — PR [#6125](https://github.com/traccar/traccar/pull/6125) & [#6126](https://github.com/traccar/traccar/pull/6126))*: Implemented database-backed limit-offset pagination across telemetry REST APIs, bounding 17,000-record queries to prevent memory buffer overflow.
-  - [**Stirling-PDF**](https://github.com/Stirling-Tools/Stirling-PDF) *(Contributed — PR [#8947](https://github.com/Stirling-Tools/Stirling-PDF/pull/8947))*: Refactored Apache PDFBox security inspection routines to resolve HTTP 400 upload crashes.
+  - [**traccar/traccar**](https://github.com/traccar/traccar) *(Merged — PR [#6125](https://github.com/traccar/traccar/pull/6125) & [#6126](https://github.com/traccar/traccar/pull/6126))*: Implemented database-backed limit-offset pagination across telemetry REST APIs, bounding 17,000-record queries to prevent downstream buffer overflow.
+  - [**Stirling-PDF**](https://github.com/Stirling-Tools/Stirling-PDF) *(Contributed — PR [#8947](https://github.com/Stirling-Tools/Stirling-PDF/pull/8947))*: Refactored Apache PDFBox security inspection routines to resolve unhandled HTTP 400 crashes on password-protected uploads.
+
+<br>
+
 - 👯 **Looking to Collaborate on:** Open-source backend infrastructure, distributed stream processing, and agentic retrieval/search systems
+
+<br>
+
 - 💬 **Ask Me About:** Java, Spring Boot, Kafka, Redis, PostgreSQL (pgvector), Hybrid RAG, AI Automations & Agent Pipelines (n8n)
+
+<br>
+
 - ⚡ **Milestones:** **500+ Active Days on LeetCode** | 1,000+ problems solved | GATE CS 2025 (AIR 7912)
+
+<br>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/vivek-kanugula"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:connectwithvivekk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://portfolio.vivekstack.dev"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://leetcode.com/u/vivek_kanugula/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<p align="left">
+  <a href="https://linkedin.com/in/vivek-kanugula">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:connectwithvivekk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio.vivekstack.dev">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=plastic&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/vivek_kanugula/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
+
+<br>
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages & Backend Architecture
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+### Languages & Core CS
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=plastic&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+<br>
+
+### Backend Architecture & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=plastic" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices-blueviolet?style=plastic" alt="Microservices" />
+</p>
+
+<br>
 
 ### Distributed Systems & Storage
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Resilience4j-Fault_Tolerance-blue?style=plastic" alt="Resilience4j" />
+</p>
 
-### Applied AI & Automations
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=lightning&logoColor=white)
-![Agent Workflows](https://img.shields.io/badge/AI%20Agents-Workflows-blueviolet?style=flat-square)
+<br>
+
+### Applied AI, Search & Automations
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-AI_Automations-EA4B71?style=plastic&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/pgvector-Vector_Search-336791?style=plastic&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Hybrid_RAG-Dense_+_Sparse-FF6F00?style=plastic" alt="Hybrid RAG" />
+  <img src="https://img.shields.io/badge/Cross--Encoder-Reranking-purple?style=plastic" alt="Cross-Encoder" />
+  <img src="https://img.shields.io/badge/Groq-Fast_Inference-F55036?style=plastic&logo=lightning&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/LangChain-Orchestration-1C3C3C?style=plastic&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/AI_Agents-Workflows-8A2BE2?style=plastic" alt="AI Agents" />
+</p>
+
+<br>
 
 ### Cloud, DevOps & Observability
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=plastic&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=plastic&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/k6-Performance_Testing-7D64FF?style=plastic&logo=k6&logoColor=white" alt="k6" />
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=plastic&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
+
+<br>
 
 ---
 
@@ -61,8 +128,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=vivek-kanugula&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
+  &nbsp;
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivek-kanugula&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vivek-kanugula&theme=dark&hide_border=false" width="97%" />
 </p>
